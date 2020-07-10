@@ -8,7 +8,7 @@
 // Devices with higher bit address might not be seen properly.
 // ---------------------------------------------------------------- /
 
-// Setup test to ensure the SparkFun IMU MPU-9250 is located at 0x68, 0x69, or 0x71
+// Setup test to ensure the SparkFun IMU MP-9250 is located at 0x68, 0x69, or 0x71
 
 #include <Wire.h> //include Wire.h library
 
