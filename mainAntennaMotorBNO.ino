@@ -7,7 +7,6 @@
 #include <Adafruit_BNO055.h>
 #include <utility/imumaths.h>
 #include <WString.h>
-#include "quaternionFilters.h"
 
 // Setup secondary serial through a second Arduino for Orbitron communication
 SoftwareSerial secondSer(53, 52);
