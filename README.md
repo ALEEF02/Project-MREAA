@@ -13,3 +13,6 @@ I am still working on this project, but 3 different people which I have asked to
 
 ## Update October 2nd
 Just about done! Need to print one more gear for the azimuth motor, which I've had to reprint multiple times due to mis-sizing on the internal hole. I am very behind schedule due to reopening of schools and my part-time job. Finished version should be (hopefully) published by month end. :D
+
+## Update October 24th
+I have finished the antenna! With this commit, I am uploading the code for the main and slave Arduinos as well as a setup test for the BNO055. Pictures, videos, parts list, and guide to come shortly!
