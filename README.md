@@ -44,7 +44,7 @@ Here's a full instruction set on how to build your own antenna and how to wire i
 	
 #### Optional - the following can be changed to fit the needs of the build
 *Ex: We modified the build afterwards to mount a camera for panorama shots*
-<img src="/media/camera mount.JPG" width="200" alt="Camera Mount">
+<img src="/media/camera mount.JPG" width="300" alt="Camera Mount">
 * 3D printer (gears)
   * *Both gears are provided in .stl format and can be found [here](https://github.com/ALEEF02/Project-MREAA/tree/master/3D%20Models)*
 * 1/2 inch aluminum square tube (boom)
@@ -53,7 +53,7 @@ Here's a full instruction set on how to build your own antenna and how to wire i
 * U-bolts
 * Sliding door wheels
     * Used to move the antenna on the base
-	<img src="/media/wheels.JPG" width="200" alt="Sliding Wheels">
+	<img src="/media/wheels.JPG" width="300" alt="Sliding Wheels">
 * Various other parts as needed...
 	
 ## Steps
@@ -62,22 +62,26 @@ Here's a full instruction set on how to build your own antenna and how to wire i
 Our goal was to receive NOAA weather satellite signals at 137MHz. We sought to make a 3 element Yagi Uda antenna.
 
 We began with rough calculations provided by [online calculators](https://www.changpuak.ch/electronics/yagi_uda_antenna_DL6WU.php). With these numbers we got a piece of 1/2 inch aluminum square tube as the boom. Three copper pipes (one director, one driven element, and one reflector), about 1/2 inch in diameter and cut to the specified lengths, were mounted to the boom at the calculated measurements.
-<img src="/media/wheels.JPG" width="200" alt="Sliding Wheels">
-<img src="/media/boom holes.JPG" width="200" alt="Sliding Wheels">
+
+<img src="/media/wheels.JPG" width="300" alt="Sliding Wheels">
+<img src="/media/boom holes.JPG" width="300" alt="Sliding Wheels">
 
 Mounting of the elements was done with U-bolts through the boom. The positive and negative leads were soldered to a length of coaxial cable and the joint was housed in a PVC junction box.
-<img src="/media/ubolt.JPG" width="200" alt="Using ubolts">
-<img src="/media/copper tubing to boom.JPG" width="200" alt="Attaching copper tubing to the boom">
-<img src="/media/coax.JPG" width="200" alt="Coax Cabling">
-<img src="/media/coax connect.JPG" width="200" alt="Coax cabling connected to the copper tubing">
+
+<img src="/media/ubolt.JPG" width="300" alt="Using ubolts">
+<img src="/media/copper tubing to boom.JPG" width="300" alt="Attaching copper tubing to the boom">
+<img src="/media/coax.JPG" width="300" alt="Coax Cabling">
+<img src="/media/coax connect.JPG" width="300" alt="Coax cabling connected to the copper tubing">
 
 ### Main Assembly
-The whole antenna assembly was mounted on an old skateboard truck with the bearings pressed into two supports that held the antenna off the ground. 
-<img src="/media/skateboard.JPG" width="200" alt="Sliding Wheels">
-<img src="/media/mount.JPG" width="200" alt="Full mounting solution">
+The whole antenna assembly was mounted on an old skateboard truck with the bearings pressed into two supports that held the antenna off the ground.
+
+<img src="/media/skateboard.JPG" width="300" alt="Sliding Wheels">
+<img src="/media/mount.JPG" width="300" alt="Full mounting solution">
 
 Vertical movement was accomplished by means of a screw that was allowed to change its angle to accommodate for the changing position of the stationary nut attached to the boom.
-<img src="/media/finished.jpg" width="200" alt="Finished, no wiring">
+
+<img src="/media/finished.jpg" width="300" alt="Finished, no wiring">
 
 ### Wiring
 Refer to the following diagram for wiring the antenna. A breadboard as displayed is not required, as you can solder the wires as well for a more permanent build.
@@ -85,11 +89,12 @@ Refer to the following diagram for wiring the antenna. A breadboard as displayed
 
 ## Extra Photos and Videos
 Early wiring and testing of the stepper motor using a compass
-<img src="/media/early wiring 1.jpg" width="200" alt="The beginnings">
-![Using a compass](/media/early wiring.mp4)
+
+<img src="/media/early wiring 1.jpg" width="300" alt="The beginnings">
+![Using a compass](https://user-images.githubusercontent.com/12904259/110265702-06613d00-7f71-11eb-8d52-4246900234ff.mp4)
 
 First movement to the moon, October 24th, 2020 at 8:06 PM PDT
-![Movement to the Moon](/media/moon.mp4)
+![Movement to the Moon](https://user-images.githubusercontent.com/12904259/110265670-f77a8a80-7f70-11eb-8161-bef4a66bf4ca.mp4)
 
 Tracking NOAA-18
-![Movement to NOAA-18](/media/18.mp4)
+![Movement to NOAA-18](https://user-images.githubusercontent.com/12904259/110265539-9eaaf200-7f70-11eb-9352-c26c2ad33ac2.mp4)
