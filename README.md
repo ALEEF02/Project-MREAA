@@ -44,7 +44,9 @@ Here's a full instruction set on how to build your own antenna and how to wire i
 	
 #### Optional - the following can be changed to fit the needs of the build
 *Ex: We modified the build afterwards to mount a camera for panorama shots*
+
 <img src="/media/camera mount.jpg" width="300" alt="Camera Mount">
+
 * 3D printer (gears)
   * *Both gears are provided in .stl format and can be found [here](https://github.com/ALEEF02/Project-MREAA/tree/master/3D%20Models)*
 * 1/2 inch aluminum square tube (boom)
