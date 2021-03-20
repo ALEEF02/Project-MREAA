@@ -44,7 +44,7 @@ Here's a full instruction set on how to build your own antenna and how to wire i
 	
 #### Optional - the following can be changed to fit the needs of the build
 *Ex: We modified the build afterwards to mount a camera for panorama shots*
-<img src="/media/camera mount.JPG" width="300" alt="Camera Mount">
+<img src="/media/camera mount.jpg" width="300" alt="Camera Mount">
 * 3D printer (gears)
   * *Both gears are provided in .stl format and can be found [here](https://github.com/ALEEF02/Project-MREAA/tree/master/3D%20Models)*
 * 1/2 inch aluminum square tube (boom)
@@ -91,10 +91,11 @@ Refer to the following diagram for wiring the antenna. A breadboard as displayed
 Early wiring and testing of the stepper motor using a compass
 
 <img src="/media/early wiring 1.jpg" width="300" alt="The beginnings">
-![Using a compass](https://user-images.githubusercontent.com/12904259/110265702-06613d00-7f71-11eb-8d52-4246900234ff.mp4)
+
+![Using a compass (video)](https://user-images.githubusercontent.com/12904259/111854651-87a7c080-88dd-11eb-8fc2-6c3c1abd6f29.mp4)
 
 First movement to the moon, October 24th, 2020 at 8:06 PM PDT
-![Movement to the Moon](https://user-images.githubusercontent.com/12904259/110265670-f77a8a80-7f70-11eb-8161-bef4a66bf4ca.mp4)
+![Movement to the Moon (video)](https://user-images.githubusercontent.com/12904259/110265670-f77a8a80-7f70-11eb-8161-bef4a66bf4ca.mp4)
 
 Tracking NOAA-18
-![Movement to NOAA-18](https://user-images.githubusercontent.com/12904259/110265539-9eaaf200-7f70-11eb-9352-c26c2ad33ac2.mp4)
+![Movement to NOAA-18](https://user-images.githubusercontent.com/12904259/111854695-c2115d80-88dd-11eb-92d7-0e3e7319f4ea.mp4)
